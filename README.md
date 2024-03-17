@@ -1,0 +1,1 @@
+# Stopka html do gmail. 
